@@ -239,15 +239,15 @@ The application will open at `http://localhost:3000`
 
 ## 🔗 Links
 
-- **Problem Definition and Approach Interpretation:**: [https://docs.google.com/document/d/1IKaynF72Da6b12rQE5D0-JvYpPP3s1w88hyM79DKV1A/edit?usp=sharing]
-- **Project Approach and Team Progress:**: [https://docs.google.com/document/d/1ZEyn6eIy35XKXj4LkuWzdhXL97Tu6Hrg8Ui8khZrrqQ/edit?usp=sharing]
-- **Demo**: [https://drive.google.com/file/d/143V9hh2cSBNMPJBkt65DMfbqanmFAitv/view?usp=sharing]
+- **Problem Definition and Approach Interpretation:**: https://docs.google.com/document/d/1IKaynF72Da6b12rQE5D0-JvYpPP3s1w88hyM79DKV1A/edit?usp=sharing
+- **Project Approach and Team Progress:**: https://docs.google.com/document/d/1ZEyn6eIy35XKXj4LkuWzdhXL97Tu6Hrg8Ui8khZrrqQ/edit?usp=sharing
+- **Demo**: https://drive.google.com/file/d/143V9hh2cSBNMPJBkt65DMfbqanmFAitv/view?usp=sharing
 
 ## 👨‍💻 Authors
 
 **Team 4 - Speech Completion Prediction Research**
-- **Harsh Vardhan** (Team Lead) - [https://github.com/harsh-vardhan3/] 
-- **Saatwik Sambaraju** - [https://github.com/Saatwik55]
-- **Thirunaavukarasan S** - [https://github.com/Thirunaavukarasan-Sharvesh]
+- **Harsh Vardhan** (Team Lead) - https://github.com/harsh-vardhan3/
+- **Saatwik Sambaraju** - https://github.com/Saatwik55
+- **Thirunaavukarasan S** - https://github.com/Thirunaavukarasan-Sharvesh
   
   Contact on erthv19@gmail.com for any queries or suggestions.
